@@ -1,0 +1,8 @@
+{
+  "name": "Testable-APIs-with-Node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MarceloAnjs/-Testable-APIs-with-Node.js.git",
+  "author": "Marcelo Augusto <marceloanjos023@gmail.com>",
+  "license": "MIT"
+}
