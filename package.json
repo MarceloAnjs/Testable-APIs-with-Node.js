@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/MarceloAnjs/-Testable-APIs-with-Node.js.git",
   "author": "Marcelo Augusto <marceloanjos023@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10"
+  }
 }
